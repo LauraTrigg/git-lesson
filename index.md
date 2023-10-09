@@ -1,8 +1,8 @@
-#My new website 
+# My new website 
 
 This is my webiste, there are many like it but this one is mine 
 
-#ToDo taks for learning Git Course 
+# ToDo taks for learning Git Course 
 
 + Write an 'index.md'
 + Save, stage and Commit changes. 
